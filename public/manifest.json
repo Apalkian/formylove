@@ -1,0 +1,14 @@
+{
+  "name": "For Myra Hazel",
+  "short_name": "For Myra",
+  "description": "A sweet surprise from Kian Loui Apal for Myra Hazel Gerodiaz",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#170812",
+  "theme_color": "#B01245",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
